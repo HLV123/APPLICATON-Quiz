@@ -9,6 +9,21 @@ Well, dùng thử tư duy thiết kế hệ thống để làm một bản demo 
 ##### cách chạy VS Code : terminal : cd "D:\Github\đăng github ngày 17-8-25\quiz_app"  
 #####                                python main.py
 
+
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/b4155d39-cebe-4686-9a45-9dbbd3296fe3" />
+
+<img width="1500" height="1017" alt="Image" src="https://github.com/user-attachments/assets/74952cf6-0c0d-455d-b3ce-41f14a82dbd9" />
+
+<img width="995" height="722" alt="Image" src="https://github.com/user-attachments/assets/3472ddb1-d918-4721-b39a-04143c08086a" />
+
+<img width="1493" height="862" alt="Image" src="https://github.com/user-attachments/assets/820f3bbe-2bff-4276-bdc6-a7d01f26b6b2" />
+
+<img width="1493" height="905" alt="Image" src="https://github.com/user-attachments/assets/653c18c4-d4cc-45f1-a06e-a7e0afcbdadd" />
+
+<img width="1918" height="976" alt="Image" src="https://github.com/user-attachments/assets/2e07c95b-9c4f-4ded-9aa9-c0b87e400d85" />
+
+<img width="1907" height="723" alt="Image" src="https://github.com/user-attachments/assets/f216d841-d2d5-4c15-8d68-51a20620de20" />
+
 # 🎯 Quiz Application
 
 Ứng dụng Quiz tương tác với giao diện đồ họa, hỗ trợ quản lý câu hỏi và làm bài thi trắc nghiệm.
